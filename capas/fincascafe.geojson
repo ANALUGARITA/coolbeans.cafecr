@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "fincascafe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Nombre": "Finca El Bautismo", "TipoCafe": "Proceso Natural" }, "geometry": { "type": "Point", "coordinates": [ -84.048555714153409, 9.714833250750583 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Nombre": "Finca Don Gabriel", "TipoCafe": "Proceso Natural" }, "geometry": { "type": "Point", "coordinates": [ -84.043758782905286, 9.692745779821788 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Nombre": "Finca Juanachute", "TipoCafe": "Blend Honey" }, "geometry": { "type": "Point", "coordinates": [ -84.030551714651821, 9.674617851298882 ] } }
+]
+}
